@@ -32,7 +32,7 @@ git pull
 ```bash
 git clone https://github.com/zhuimengFIRE/codex-reset-count.git
 cd codex-reset-count
-./install.sh
+bash install.sh
 ```
 
 安装脚本会复制当前仓库内容到：
